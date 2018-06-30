@@ -1,4 +1,4 @@
-/Stiff.geojson
-/Stiff_prueba
-/.Rhistory
-/stiffgeojson-v0.R
+Stiff.geojson
+Stiff_prueba
+.Rhistory
+stiffgeojson-v0.R
