@@ -1,4 +1,3 @@
-Stiff.geojson
-Stiff_prueba
 .Rhistory
-stiffgeojson-v0.R
+.RData
+test-files
